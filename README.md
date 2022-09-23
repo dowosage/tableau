@@ -1,2 +1,2 @@
-This is a respository of Tableau workbooks that are in progress or that I didn't yet want to discard. 
+Respository of Tableau workbooks that are wip, or that I didn't want to lose yet.
 
